@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+
+# Data & Large Artifacts (keep sample media & splits small, ignore raw 7.9GB archive)
+data/raw/*.zip
+data/raw/*.tar.gz
+data/processed/*.pt
+data/processed/*.npy
+outputs/checkpoints/
+outputs/logs/
+
+# Jupyter & IDE
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.pytest_cache/
+*.tmp
+.DS_Store
+Thumbs.db
+

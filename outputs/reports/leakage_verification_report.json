@@ -1,0 +1,28 @@
+{
+  "tier": "regular",
+  "seed": 42,
+  "total_pairs": 23100,
+  "split_counts": {
+    "train": 16170,
+    "val": 3465,
+    "test": 3465
+  },
+  "split_percentages": {
+    "train": 70.0,
+    "val": 15.0,
+    "test": 15.0
+  },
+  "unique_base_recordings": {
+    "train": 3234,
+    "val": 693,
+    "test": 693
+  },
+  "shared_base_filenames_train_val": 0,
+  "shared_base_filenames_train_test": 0,
+  "shared_base_filenames_val_test": 0,
+  "shared_image_hashes_train_val": 0,
+  "shared_image_hashes_train_test": 0,
+  "shared_image_hashes_val_test": 0,
+  "species_mismatch_pairs": 0,
+  "zero_leakage_verified": true
+}

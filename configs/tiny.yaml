@@ -1,0 +1,48 @@
+dataset:
+  name: MultimodalBirds
+  version: tiny
+  num_classes: 10
+  images_per_class: 140
+  sounds_per_class: 140
+  species_pairing: true
+  zenodo_record_id: 17633387
+
+split:
+  test_ratio: 0.15
+  val_ratio_from_train: 0.17647  # 0.15 of total (70/15/15 split)
+  group_key: base_filename
+  preserve_for_test: true
+  seed: 42
+
+preprocessing:
+  image:
+    raw_size: [128, 128]
+    target_size: [224, 224]
+    mean: [0.485, 0.456, 0.406]
+    std: [0.229, 0.224, 0.225]
+    horizontal_flip_p: 0.5
+    color_jitter:
+      brightness: 0.15
+      contrast: 0.15
+      saturation: 0.10
+  audio:
+    sample_rate: 16000
+    duration_sec: 3.0
+    num_samples: 48000
+    mono: true
+    n_fft: 1024
+    win_length: 1024
+    hop_length: 320
+    n_mels: 128
+    f_min: 50.0
+    f_max: 8000.0
+    spec_augment:
+      time_mask_param: 18
+      freq_mask_param: 16
+
+model:
+  image_backbone: efficientnet_b0
+  image_proj_dim: 256
+  audio_embed_dim: 256
+  fusion_hidden_dim: 256
+  dropout: 0.3

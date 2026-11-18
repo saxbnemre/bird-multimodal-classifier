@@ -1,0 +1,5 @@
+tier,num_species,total_records,image_records,sound_records,unique_audio_sources,test_images,test_sounds,species_level_pairs,mean_birdnet_score
+Raw_Initial_Pool,130,108280,13626,94654,18240,2021,13928,94654,0.7345
+Unbalanced_130_Clean,130,107359,13466,93893,17479,2021,13928,93893,0.7374
+Regular_33_Main,33,27720,4620,23100,4620,693,3465,23100,0.7624
+Tiny_10_Prototype,10,2800,1400,1400,1400,210,210,1400,0.7885

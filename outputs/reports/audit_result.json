@@ -1,0 +1,60 @@
+{
+  "disk_media_verification": {
+    "checked_sample_images": 106,
+    "valid_sample_images_128x128_rgb": 106,
+    "checked_sample_wavs": 126,
+    "valid_sample_wavs_16khz_mono_3s": 126
+  },
+  "summary_tiers": [
+    {
+      "tier": "Raw_Initial_Pool",
+      "num_species": 130,
+      "total_records": 108280,
+      "image_records": 13626,
+      "sound_records": 94654,
+      "unique_audio_sources": 18240,
+      "test_images": 2021,
+      "test_sounds": 13928,
+      "species_level_pairs": 94654,
+      "mean_birdnet_score": 0.7345
+    },
+    {
+      "tier": "Unbalanced_130_Clean",
+      "num_species": 130,
+      "total_records": 107359,
+      "image_records": 13466,
+      "sound_records": 93893,
+      "unique_audio_sources": 17479,
+      "test_images": 2021,
+      "test_sounds": 13928,
+      "species_level_pairs": 93893,
+      "mean_birdnet_score": 0.7374
+    },
+    {
+      "tier": "Regular_33_Main",
+      "num_species": 33,
+      "total_records": 27720,
+      "image_records": 4620,
+      "sound_records": 23100,
+      "unique_audio_sources": 4620,
+      "test_images": 693,
+      "test_sounds": 3465,
+      "species_level_pairs": 23100,
+      "mean_birdnet_score": 0.7624
+    },
+    {
+      "tier": "Tiny_10_Prototype",
+      "num_species": 10,
+      "total_records": 2800,
+      "image_records": 1400,
+      "sound_records": 1400,
+      "unique_audio_sources": 1400,
+      "test_images": 210,
+      "test_sounds": 210,
+      "species_level_pairs": 1400,
+      "mean_birdnet_score": 0.7885
+    }
+  ],
+  "removed_total": 921,
+  "regular_meets_min_requirements": true
+}

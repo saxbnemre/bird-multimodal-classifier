@@ -1,0 +1,131 @@
+label_id,ebird_code,name,tr_name,sci_name,family,in_tiny,in_regular,in_unbalanced
+0,norcar,Northern Cardinal,Kuzey Kardinali,Cardinalis cardinalis,Cardinalidae,True,True,True
+1,blujay,Blue Jay,Mavi Alakarga,Cyanocitta cristata,Corvidae,True,True,True
+2,amerob,American Robin,Amerika Kızılgerdanı,Turdus migratorius,Turdidae,True,True,True
+3,eurrob,European Robin,Avrupa Kızılgerdanı,Erithacus rubecula,Muscicapidae,True,True,True
+4,gretit,Great Tit,Büyük Baştankara,Parus major,Paridae,True,True,True
+5,houspa,House Sparrow,Ev Serçesi,Passer domesticus,Passeridae,True,True,True
+6,amecro,American Crow,Amerika Kargası,Corvus brachyrhynchos,Corvidae,True,True,True
+7,mallar3,Mallard,Yeşilbaş Ördek,Anas platyrhynchos,Anatidae,True,True,True
+8,eursta,European Starling,Sığırcık,Sturnus vulgaris,Sturnidae,True,True,True
+9,rethaw,Red-tailed Hawk,Kızıl Kuyruklu Şahin,Buteo jamaicensis,Accipitridae,True,True,True
+10,bkcchi,Black-capped Chickadee,Kara Başlı Baştankara,Poecile atricapillus,Paridae,False,True,True
+11,amegfi,American Goldfinch,Amerika Sakası,Spinus tristis,Fringillidae,False,True,True
+12,sonspa,Song Sparrow,Ötücü Serçe,Melospiza melodia,Passerellidae,False,True,True
+13,rewbla,Red-winged Blackbird,Kızıl Kanatlı Karatavuk,Agelaius phoeniceus,Icteridae,False,True,True
+14,moudov,Mourning Dove,Yaslı Kumru,Zenaida macroura,Columbidae,False,True,True
+15,dowwoo,Downy Woodpecker,Tüylü Ağaçkakan,Dryobates pubescens,Picidae,False,True,True
+16,whbnut,White-breasted Nuthatch,Ak Göğüslü Sıvacı,Sitta carolinensis,Sittidae,False,True,True
+17,comgra,Common Grackle,Bayağı Çayır Kuşu,Quiscalus quiscula,Icteridae,False,True,True
+18,balori,Baltimore Oriole,Baltimore Sarıasması,Icterus galbula,Icteridae,False,True,True
+19,cedwax,Cedar Waxwing,Sedir İpekkuyruğu,Bombycilla cedrorum,Bombycillidae,False,True,True
+20,barswa,Barn Swallow,Kır Kırlangıcı,Hirundo rustica,Hirundinidae,False,True,True
+21,houfin,House Finch,Ev İspinozu,Haemorhous mexicanus,Fringillidae,False,True,True
+22,daejun,Dark-eyed Junco,Koyu Gözlü Junko,Junco hyemalis,Passerellidae,False,True,True
+23,carwre,Carolina Wren,Carolina Çıtkuşu,Thryothorus ludovicianus,Troglodytidae,False,True,True
+24,tuftit,Tufted Titmouse,Tepeli Baştankara,Baeolophus bicolor,Paridae,False,True,True
+25,eurbla,Eurasian Blackbird,Karatavuk,Turdus merula,Turdidae,False,True,True
+26,comcha,Common Chaffinch,İspinoz,Fringilla coelebs,Fringillidae,False,True,True
+27,eurgre,European Greenfinch,Florya,Chloris chloris,Fringillidae,False,True,True
+28,comkin1,Common Kingfisher,Yalıçapkını,Alcedo atthis,Alcedinidae,False,True,True
+29,eurmag1,Eurasian Magpie,Saksağan,Pica pica,Corvidae,False,True,True
+30,grswoo,Great Spotted Woodpecker,Orman Alaca Ağaçkakanı,Dendrocopos major,Picidae,False,True,True
+31,hoocro1,Hooded Crow,Leş Kargası,Corvus cornix,Corvidae,False,True,True
+32,cangoo,Canada Goose,Kanada Kazı,Branta canadensis,Anatidae,False,True,True
+33,bird033,Wild Bird Species 34,Yabani Kuş Türü 34,Aves species_34,Charadriiformes,False,False,True
+34,bird034,Wild Bird Species 35,Yabani Kuş Türü 35,Aves species_35,Passeriformes,False,False,True
+35,bird035,Wild Bird Species 36,Yabani Kuş Türü 36,Aves species_36,Passeriformes,False,False,True
+36,bird036,Wild Bird Species 37,Yabani Kuş Türü 37,Aves species_37,Charadriiformes,False,False,True
+37,bird037,Wild Bird Species 38,Yabani Kuş Türü 38,Aves species_38,Passeriformes,False,False,True
+38,bird038,Wild Bird Species 39,Yabani Kuş Türü 39,Aves species_39,Passeriformes,False,False,True
+39,bird039,Wild Bird Species 40,Yabani Kuş Türü 40,Aves species_40,Charadriiformes,False,False,True
+40,bird040,Wild Bird Species 41,Yabani Kuş Türü 41,Aves species_41,Passeriformes,False,False,True
+41,bird041,Wild Bird Species 42,Yabani Kuş Türü 42,Aves species_42,Passeriformes,False,False,True
+42,bird042,Wild Bird Species 43,Yabani Kuş Türü 43,Aves species_43,Charadriiformes,False,False,True
+43,bird043,Wild Bird Species 44,Yabani Kuş Türü 44,Aves species_44,Passeriformes,False,False,True
+44,bird044,Wild Bird Species 45,Yabani Kuş Türü 45,Aves species_45,Passeriformes,False,False,True
+45,bird045,Wild Bird Species 46,Yabani Kuş Türü 46,Aves species_46,Charadriiformes,False,False,True
+46,bird046,Wild Bird Species 47,Yabani Kuş Türü 47,Aves species_47,Passeriformes,False,False,True
+47,bird047,Wild Bird Species 48,Yabani Kuş Türü 48,Aves species_48,Passeriformes,False,False,True
+48,bird048,Wild Bird Species 49,Yabani Kuş Türü 49,Aves species_49,Charadriiformes,False,False,True
+49,bird049,Wild Bird Species 50,Yabani Kuş Türü 50,Aves species_50,Passeriformes,False,False,True
+50,bird050,Wild Bird Species 51,Yabani Kuş Türü 51,Aves species_51,Passeriformes,False,False,True
+51,bird051,Wild Bird Species 52,Yabani Kuş Türü 52,Aves species_52,Charadriiformes,False,False,True
+52,bird052,Wild Bird Species 53,Yabani Kuş Türü 53,Aves species_53,Passeriformes,False,False,True
+53,bird053,Wild Bird Species 54,Yabani Kuş Türü 54,Aves species_54,Passeriformes,False,False,True
+54,bird054,Wild Bird Species 55,Yabani Kuş Türü 55,Aves species_55,Charadriiformes,False,False,True
+55,bird055,Wild Bird Species 56,Yabani Kuş Türü 56,Aves species_56,Passeriformes,False,False,True
+56,bird056,Wild Bird Species 57,Yabani Kuş Türü 57,Aves species_57,Passeriformes,False,False,True
+57,bird057,Wild Bird Species 58,Yabani Kuş Türü 58,Aves species_58,Charadriiformes,False,False,True
+58,bird058,Wild Bird Species 59,Yabani Kuş Türü 59,Aves species_59,Passeriformes,False,False,True
+59,bird059,Wild Bird Species 60,Yabani Kuş Türü 60,Aves species_60,Passeriformes,False,False,True
+60,bird060,Wild Bird Species 61,Yabani Kuş Türü 61,Aves species_61,Charadriiformes,False,False,True
+61,bird061,Wild Bird Species 62,Yabani Kuş Türü 62,Aves species_62,Passeriformes,False,False,True
+62,bird062,Wild Bird Species 63,Yabani Kuş Türü 63,Aves species_63,Passeriformes,False,False,True
+63,bird063,Wild Bird Species 64,Yabani Kuş Türü 64,Aves species_64,Charadriiformes,False,False,True
+64,bird064,Wild Bird Species 65,Yabani Kuş Türü 65,Aves species_65,Passeriformes,False,False,True
+65,bird065,Wild Bird Species 66,Yabani Kuş Türü 66,Aves species_66,Passeriformes,False,False,True
+66,bird066,Wild Bird Species 67,Yabani Kuş Türü 67,Aves species_67,Charadriiformes,False,False,True
+67,bird067,Wild Bird Species 68,Yabani Kuş Türü 68,Aves species_68,Passeriformes,False,False,True
+68,bird068,Wild Bird Species 69,Yabani Kuş Türü 69,Aves species_69,Passeriformes,False,False,True
+69,bird069,Wild Bird Species 70,Yabani Kuş Türü 70,Aves species_70,Charadriiformes,False,False,True
+70,bird070,Wild Bird Species 71,Yabani Kuş Türü 71,Aves species_71,Passeriformes,False,False,True
+71,bird071,Wild Bird Species 72,Yabani Kuş Türü 72,Aves species_72,Passeriformes,False,False,True
+72,bird072,Wild Bird Species 73,Yabani Kuş Türü 73,Aves species_73,Charadriiformes,False,False,True
+73,bird073,Wild Bird Species 74,Yabani Kuş Türü 74,Aves species_74,Passeriformes,False,False,True
+74,bird074,Wild Bird Species 75,Yabani Kuş Türü 75,Aves species_75,Passeriformes,False,False,True
+75,bird075,Wild Bird Species 76,Yabani Kuş Türü 76,Aves species_76,Charadriiformes,False,False,True
+76,bird076,Wild Bird Species 77,Yabani Kuş Türü 77,Aves species_77,Passeriformes,False,False,True
+77,bird077,Wild Bird Species 78,Yabani Kuş Türü 78,Aves species_78,Passeriformes,False,False,True
+78,bird078,Wild Bird Species 79,Yabani Kuş Türü 79,Aves species_79,Charadriiformes,False,False,True
+79,bird079,Wild Bird Species 80,Yabani Kuş Türü 80,Aves species_80,Passeriformes,False,False,True
+80,bird080,Wild Bird Species 81,Yabani Kuş Türü 81,Aves species_81,Passeriformes,False,False,True
+81,bird081,Wild Bird Species 82,Yabani Kuş Türü 82,Aves species_82,Charadriiformes,False,False,True
+82,bird082,Wild Bird Species 83,Yabani Kuş Türü 83,Aves species_83,Passeriformes,False,False,True
+83,bird083,Wild Bird Species 84,Yabani Kuş Türü 84,Aves species_84,Passeriformes,False,False,True
+84,bird084,Wild Bird Species 85,Yabani Kuş Türü 85,Aves species_85,Charadriiformes,False,False,True
+85,bird085,Wild Bird Species 86,Yabani Kuş Türü 86,Aves species_86,Passeriformes,False,False,True
+86,bird086,Wild Bird Species 87,Yabani Kuş Türü 87,Aves species_87,Passeriformes,False,False,True
+87,bird087,Wild Bird Species 88,Yabani Kuş Türü 88,Aves species_88,Charadriiformes,False,False,True
+88,bird088,Wild Bird Species 89,Yabani Kuş Türü 89,Aves species_89,Passeriformes,False,False,True
+89,bird089,Wild Bird Species 90,Yabani Kuş Türü 90,Aves species_90,Passeriformes,False,False,True
+90,bird090,Wild Bird Species 91,Yabani Kuş Türü 91,Aves species_91,Charadriiformes,False,False,True
+91,bird091,Wild Bird Species 92,Yabani Kuş Türü 92,Aves species_92,Passeriformes,False,False,True
+92,bird092,Wild Bird Species 93,Yabani Kuş Türü 93,Aves species_93,Passeriformes,False,False,True
+93,bird093,Wild Bird Species 94,Yabani Kuş Türü 94,Aves species_94,Charadriiformes,False,False,True
+94,bird094,Wild Bird Species 95,Yabani Kuş Türü 95,Aves species_95,Passeriformes,False,False,True
+95,bird095,Wild Bird Species 96,Yabani Kuş Türü 96,Aves species_96,Passeriformes,False,False,True
+96,bird096,Wild Bird Species 97,Yabani Kuş Türü 97,Aves species_97,Charadriiformes,False,False,True
+97,bird097,Wild Bird Species 98,Yabani Kuş Türü 98,Aves species_98,Passeriformes,False,False,True
+98,bird098,Wild Bird Species 99,Yabani Kuş Türü 99,Aves species_99,Passeriformes,False,False,True
+99,bird099,Wild Bird Species 100,Yabani Kuş Türü 100,Aves species_100,Charadriiformes,False,False,True
+100,bird100,Wild Bird Species 101,Yabani Kuş Türü 101,Aves species_101,Passeriformes,False,False,True
+101,bird101,Wild Bird Species 102,Yabani Kuş Türü 102,Aves species_102,Passeriformes,False,False,True
+102,bird102,Wild Bird Species 103,Yabani Kuş Türü 103,Aves species_103,Charadriiformes,False,False,True
+103,bird103,Wild Bird Species 104,Yabani Kuş Türü 104,Aves species_104,Passeriformes,False,False,True
+104,bird104,Wild Bird Species 105,Yabani Kuş Türü 105,Aves species_105,Passeriformes,False,False,True
+105,bird105,Wild Bird Species 106,Yabani Kuş Türü 106,Aves species_106,Charadriiformes,False,False,True
+106,bird106,Wild Bird Species 107,Yabani Kuş Türü 107,Aves species_107,Passeriformes,False,False,True
+107,bird107,Wild Bird Species 108,Yabani Kuş Türü 108,Aves species_108,Passeriformes,False,False,True
+108,bird108,Wild Bird Species 109,Yabani Kuş Türü 109,Aves species_109,Charadriiformes,False,False,True
+109,bird109,Wild Bird Species 110,Yabani Kuş Türü 110,Aves species_110,Passeriformes,False,False,True
+110,bird110,Wild Bird Species 111,Yabani Kuş Türü 111,Aves species_111,Passeriformes,False,False,True
+111,bird111,Wild Bird Species 112,Yabani Kuş Türü 112,Aves species_112,Charadriiformes,False,False,True
+112,bird112,Wild Bird Species 113,Yabani Kuş Türü 113,Aves species_113,Passeriformes,False,False,True
+113,bird113,Wild Bird Species 114,Yabani Kuş Türü 114,Aves species_114,Passeriformes,False,False,True
+114,bird114,Wild Bird Species 115,Yabani Kuş Türü 115,Aves species_115,Charadriiformes,False,False,True
+115,bird115,Wild Bird Species 116,Yabani Kuş Türü 116,Aves species_116,Passeriformes,False,False,True
+116,bird116,Wild Bird Species 117,Yabani Kuş Türü 117,Aves species_117,Passeriformes,False,False,True
+117,bird117,Wild Bird Species 118,Yabani Kuş Türü 118,Aves species_118,Charadriiformes,False,False,True
+118,bird118,Wild Bird Species 119,Yabani Kuş Türü 119,Aves species_119,Passeriformes,False,False,True
+119,bird119,Wild Bird Species 120,Yabani Kuş Türü 120,Aves species_120,Passeriformes,False,False,True
+120,bird120,Wild Bird Species 121,Yabani Kuş Türü 121,Aves species_121,Charadriiformes,False,False,True
+121,bird121,Wild Bird Species 122,Yabani Kuş Türü 122,Aves species_122,Passeriformes,False,False,True
+122,bird122,Wild Bird Species 123,Yabani Kuş Türü 123,Aves species_123,Passeriformes,False,False,True
+123,bird123,Wild Bird Species 124,Yabani Kuş Türü 124,Aves species_124,Charadriiformes,False,False,True
+124,bird124,Wild Bird Species 125,Yabani Kuş Türü 125,Aves species_125,Passeriformes,False,False,True
+125,bird125,Wild Bird Species 126,Yabani Kuş Türü 126,Aves species_126,Passeriformes,False,False,True
+126,bird126,Wild Bird Species 127,Yabani Kuş Türü 127,Aves species_127,Charadriiformes,False,False,True
+127,bird127,Wild Bird Species 128,Yabani Kuş Türü 128,Aves species_128,Passeriformes,False,False,True
+128,bird128,Wild Bird Species 129,Yabani Kuş Türü 129,Aves species_129,Passeriformes,False,False,True
+129,bird129,Wild Bird Species 130,Yabani Kuş Türü 130,Aves species_130,Charadriiformes,False,False,True

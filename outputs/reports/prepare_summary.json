@@ -1,0 +1,12 @@
+{
+  "total_raw_records": 108280,
+  "removed_problematic_records": 921,
+  "clean_unbalanced_records": 107359,
+  "regular_33_records": 27720,
+  "tiny_10_records": 2800,
+  "outlier_samples": {
+    "occluded_image": "data/raw/samples/_outliers/outlier_occluded_norcar.jpg",
+    "wind_noise_audio": "data/raw/samples/_outliers/outlier_wind_lowscore_blujay.wav",
+    "silence_audio": "data/raw/samples/_outliers/outlier_silence_eurrob.wav"
+  }
+}

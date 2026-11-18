@@ -1,0 +1,6 @@
+issue_code,modality,count,pct_of_raw,description,handling_strategy
+format_error,Ses,312,0.2881,Standart dışı örnekleme frekansı/kanal hatası veya < 1.5s eksik klip,Hatalı kaynak kayıtlar elendi
+low_birdnet_score,Ses,265,0.2447,BirdNet_score < 0.25 (yoğun rüzgar/arka plan gürültüsü veya etiket şüphesi),Düşük güvenli etiketler temizlendi
+excessive_silence,Ses,184,0.1699,%85 üzeri sessizlik veya donanım clipping içeren segment,Bilgi içermeyen segmentler filtrelendi
+duplicate_hash,Görüntü,118,0.109,MD5 / algısal pHash ile tespit edilen birebir kopya fotoğraf,Yinelenen kopyalar elendi (sızıntı önlendi)
+corrupt_file,Görsel/Ses,42,0.0388,Bozuk veya kesik medya dosyası / okunamayan dosya başlığı,Kayıt analiz dışı bırakıldı
